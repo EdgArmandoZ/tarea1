@@ -1,20 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=poppins:wght@300;400;600;700;800;900&display=swap");
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "poppins", sans-serif;
+
 }
 
 .body{
+    background-color: rgb(111, 0, 255);
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(https://world-schools.com/es/wp-content/uploads/sites/11/2023/05/IMG-Academy-cover-WS.webp);
+
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -74,7 +74,7 @@ background-size: cover;
     cursor: pointer;
     font-size: 16px;
     color: #333;
-    font-weight: 600;
+   
 }
 
 ul{
@@ -134,7 +134,7 @@ h2{
     cursor: pointer;
     font-size: 16px;
     color: #333;
-    font-weight: 600;
+
     margin-bottom: 20PX;
     text-align: center;
     
